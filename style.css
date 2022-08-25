@@ -43,7 +43,7 @@
   font-size: 18px;
   margin-left: 64px;
   margin-bottom: 30px;
-  font-weight: normal;    
+  font-weight: normal;
   position: absolute;
   align-self: flex-end;
   z-index: 2;  
@@ -139,7 +139,7 @@
 .section-title {
   width: 60%;
   margin-top: 100px;
-  margin-bottom: 20px; 
+  margin-bottom: 20px;
   line-height: 1.15;
   font-size: 60px;
   font-weight: 600;
@@ -254,7 +254,7 @@
   display: flex;
   justify-content: flex-start;
   align-items: center;
-  flex-direction: column;  
+  flex-direction: column;
   overflow: hidden;
   position: relative;
 }
